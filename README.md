@@ -1,5 +1,3 @@
-@@ -1,5 +1,14 @@
-Etapa 3 da Ativdade 4 do Bootcamp de Machine Learning Avanti.
 Etapa 3 da Ativdade 4 do Bootcamp de Machine Learning Avanti.
 
 
